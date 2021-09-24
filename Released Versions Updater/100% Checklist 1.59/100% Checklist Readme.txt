@@ -9,12 +9,9 @@ This program will create a customizable output window or file output showing whi
 You have the option of showing the requirements on the output window in either text or icon form.
 Start the program and it will update automatically (if the game is already running) or the program will wait until the game is started and then update automatically. It will work with both loading a game and starting a new game.
 
-V1.58 Updates:
-Added support for the Japanese No-CD version of GTA III (by zoton2).
-Added support for the NewSteam r2 version of GTA San Andreas (offset found by tduva).
-
 (Unofficial) V1.59 Updates:
 Removed autoupdater due to the URL associated with it being used for malware purposes
+(2021-09-24) Critical recompile to get everything working again, no code changes
 
 
 List of supported games:
@@ -112,6 +109,10 @@ Ideas:
 
 
 Old version updates:
+
+V1.58 Updates:
+Added support for the Japanese No-CD version of GTA III (by zoton2).
+Added support for the NewSteam r2 version of GTA San Andreas (offset found by tduva).
 
 V1.57 Updates:
 Fixed a bug which caused values on The Simpsons: Hit & Run to sometimes be read incorrectly (by zoton2).
